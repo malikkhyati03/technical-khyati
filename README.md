@@ -37,6 +37,7 @@
 <a href="https://leetcode.com/malikkhyati/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png" alt="Leetcode" height="30"/> </a>
 &emsp;&emsp;
 </p>
+<br>
 <hr></hr>
 <details>
 <summary>
